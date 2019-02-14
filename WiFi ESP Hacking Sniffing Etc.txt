@@ -1,0 +1,10 @@
+WiFi Hacking IoT
+https://www.hackster.io/mrtejaslol/wifi-hacking-using-esp8266-5edb1e
+https://hackaday.io/project/28924-wifi-cracker-esp8266pbc
+https://www.instructables.com/id/DIY-Wifi-Jammer-With-ESP8266-and-Mobile-App/
+https://github.com/spacehuhn/ArduinoPcap
+Sniffing WiFi with ESP32 & ESP8266 in Wireshark: https://www.youtube.com/watch?v=3Ac6X6ZBQ0g
+Remote Wifi Sniffing Station with an ESP8266: https://www.youtube.com/watch?v=_GQMZg_5FPE
+Sniffing the Internet of Things with Wireshark, Sensniff, and FreakLabs
+https://www.youtube.com/watch?v=P-aO2lLmmcI
+
