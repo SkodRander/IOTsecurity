@@ -1,4 +1,4 @@
-# IOTsecurity
+# IOTsecurity - overview of files regarding the subject.
 
 # ESP8266-Communication-With-Server-and-ESP8266.txt 
   ESP server tutorial
